@@ -1,5 +1,5 @@
 # ScreenTimer
-A simple chrome extension built to remind the user to look away from screen after every 20 minutes to prevent various eyes related health issues.
+Help your eyes to relax and combat the symptoms of Computer Vision Syndrome by following the 20/20/20 rule. Every 20 minutes, take a break from your screen for 20 seconds and focus on something 20 feet away.
 
 1. Prepare the Files
 Create a new folder with any name and download the files mentioned below:
